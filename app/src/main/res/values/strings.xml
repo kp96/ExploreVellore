@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explore Vellore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_vellore">
+        Vellore is a city  and the administrative headquarters of Vellore district
+        in the South Indian state of Tamil Nadu  Located on the banks of Palar River  in the north-eastern part of Tamil Nadu
+Vellore has become one of the top educational destination due to the presence of
+        India\'s top medical institute Christian Medical College  Hospital (recipient of 2011 CNBC-TV18  awards for Best multi-specialty (non-metro area) and Best cardiology carein India ) and best private technological institute VIT University. Vellore is the only city other
+        than Delhi, Mumbai and Chennai to have two of the top ten premier educational institutions (CMC , VIT) in the country
+The city has a semi-arid climate with high temperatures throughout the year and relatively low rainfall.
+Jalakandeswarar Temple, Srilakshmi Golden Temple, and the Wallajapet Dhanvantri Temple and Ponnai Navagraha Kottai Temple are among the temples in Vellore. Sri Lakshmi Temple, popularly known as Golden Temple, is a newly built temple and spiritual park in Thirumalaikodi, Vellore.
+
+</string>
+    <array name="listOfAttractions">
+        <item>Attractions</item>
+        <item>Dining</item>
+        <item>Accommodation</item>
+        <item>Shopping</item>
+        <item>Theatres</item>
+    </array>
+</resources>

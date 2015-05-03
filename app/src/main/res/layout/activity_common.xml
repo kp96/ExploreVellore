@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:padding="30dp"
+
+        android:text="Cheers! We have the location and details of the place"
+        android:id="@+id/textView2"
+        android:textColor="#ff0a29ff" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35dp"
+        android:text="Hello"
+        android:padding="15dp"
+        android:layout_gravity="center"
+        android:id="@+id/tvTitleOfLocation"
+        android:textColor="#ff15ff8a" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:padding="25dp"
+        android:text="Address:"
+        android:textColor="#ff15ff8a"
+        android:layout_gravity="center"
+        android:id="@+id/tvLocationDetails"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:padding="25dp"
+        android:text="Distance:"
+        android:textColor="#ff15ff8a"
+        android:layout_gravity="center"
+        android:id="@+id/tvDistanceDetails"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:padding="25dp"
+        android:text="Fare:"
+        android:layout_gravity="center"
+        android:id="@+id/tvFareDetails"
+        android:textColor="#ff15ff8a"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:padding="25dp"
+        android:text="Phone:N/A"
+        android:layout_gravity="center"
+        android:id="@+id/tvPhoneDetails"
+        android:textColor="#ff15ff8a"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:padding="25dp"
+        android:text="Open-Hours:N/A"
+        android:layout_gravity="center"
+        android:id="@+id/tvHourDetails"
+        android:textColor="#ff15ff8a"
+        />
+    </LinearLayout>
+
+
+</ScrollView>
